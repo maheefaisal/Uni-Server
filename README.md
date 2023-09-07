@@ -1,2 +1,1 @@
-# Uni-Server
-Uni-Server
+# BUBT-University-Server
